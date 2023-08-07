@@ -139,7 +139,7 @@
 
 .blog{
   display: flex;
-  gap:var(--space-b)
+  gap: var(--space-b);
   padding: var(--space-b);
   border-bottom: 1px solid var(--color-border);
 }
